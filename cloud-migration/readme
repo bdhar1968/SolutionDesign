@@ -1,1 +1,2 @@
-Read me first
+The project was executed in October, and it is worth noting that the Application Discovery Service (ADS) component used in the assessment 
+phase was subsequently deprecated by AWS, effective November 7th, in favor of AWS Transform.
